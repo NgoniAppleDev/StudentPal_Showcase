@@ -2,7 +2,7 @@
   "name": "student_pal_app_showcase",
   "version": "0.1.0",
   "private": true,
-  "homepage": ".",
+  "homepage": "https://NgoniAppleDev.github.io/StudentPal_Showcase",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
