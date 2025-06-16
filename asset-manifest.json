@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/StudentPal_Showcase/static/css/main.70c8ca42.css",
+    "main.js": "/StudentPal_Showcase/static/js/main.fdf1d957.js",
+    "static/media/scene.png": "/StudentPal_Showcase/static/media/scene.0c9a4cc167442c9b3806.png",
+    "static/media/home_hero.png": "/StudentPal_Showcase/static/media/home_hero.ae6bb37843e36cae0837.png",
+    "static/media/mockup.png": "/StudentPal_Showcase/static/media/mockup.db6381a867d29be0934a.png",
+    "static/media/feature.png": "/StudentPal_Showcase/static/media/feature.54eb71fb8a918fd5e4f6.png",
+    "static/media/home_cards.png": "/StudentPal_Showcase/static/media/home_cards.c5b24fac95f88325335b.png",
+    "static/media/analytics.png": "/StudentPal_Showcase/static/media/analytics.e229cca15f47deca40b7.png",
+    "static/media/MoodDiary.png": "/StudentPal_Showcase/static/media/MoodDiary.2aad698a57afe7c42b1e.png",
+    "static/media/log_mood.png": "/StudentPal_Showcase/static/media/log_mood.9f787a3f47ec64b0fe74.png",
+    "static/media/tools.png": "/StudentPal_Showcase/static/media/tools.de51c0da4057573ed169.png",
+    "static/media/support.png": "/StudentPal_Showcase/static/media/support.1227ff5751ef0d40af3f.png",
+    "static/media/swiftData.png": "/StudentPal_Showcase/static/media/swiftData.0684aa1f471a59c1b399.png",
+    "static/media/react.png": "/StudentPal_Showcase/static/media/react.9667fe052f9577c58a34.png",
+    "static/media/pie-chart.png": "/StudentPal_Showcase/static/media/pie-chart.68764b299e7da9dcc534.png",
+    "static/media/banner02.svg": "/StudentPal_Showcase/static/media/banner02.2f6ba07c3ed4697086f7.svg",
+    "static/media/banner03.svg": "/StudentPal_Showcase/static/media/banner03.a278a430daff7d7a2a6e.svg",
+    "static/media/banner.svg": "/StudentPal_Showcase/static/media/banner.3c310352a6d940cab963.svg",
+    "static/media/banner04.svg": "/StudentPal_Showcase/static/media/banner04.b43b10b807bb6396ac49.svg",
+    "index.html": "/StudentPal_Showcase/index.html",
+    "main.70c8ca42.css.map": "/StudentPal_Showcase/static/css/main.70c8ca42.css.map",
+    "main.fdf1d957.js.map": "/StudentPal_Showcase/static/js/main.fdf1d957.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70c8ca42.css",
+    "static/js/main.fdf1d957.js"
+  ]
+}
