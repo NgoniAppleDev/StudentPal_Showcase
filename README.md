@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Student Pal, Mental Health Assistant App Showcase
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
